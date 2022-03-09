@@ -1,4 +1,4 @@
-# <h1>exercises<h1>
+# exercises
 # files with my 'mini projects'
 # python required to run it (Python 3.10.2)
 # the author is Anna Popelkova
