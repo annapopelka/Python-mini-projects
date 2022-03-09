@@ -1,12 +1,12 @@
-exercises
-files with my 'mini projects'
-python required to run it (Python 3.10.2)
-the author is Anna Popelkova
-this code can be freely used and modified by anyone (more in the license)
+exercises <p>
+files with my 'mini projects' <p>
+python required to run it (Python 3.10.2) <p>
+the author is Anna Popelkova <p>
+this code can be freely used and modified by anyone <p>
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) Anna Popelkova
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
