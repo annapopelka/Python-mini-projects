@@ -1,10 +1,12 @@
 exercises <p>
-files with my 'mini projects' <p>
-python required to run it (Python 3.10.2) <p>
-the author is Anna Popelkova <p>
-this code can be freely used and modified by anyone <p>
+=============
+* files with my 'mini projects' <br />
+* python required to run it (Python 3.10.2) <br />
+* the author is Anna Popelkova <br />
+* this code can be freely used and modified by anyone <br />
 
 MIT License
+---------------
 
 Copyright (c) 2022 Anna Popelkova
 
