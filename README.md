@@ -1,4 +1,4 @@
-exercises <p>
+Exercises <p>
 =============
 * files with my 'mini projects' <br />
 * python required to run it (Python 3.10.2) <br />
