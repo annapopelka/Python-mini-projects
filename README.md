@@ -6,7 +6,7 @@ this code can be freely used and modified by anyone <p>
 
 MIT License
 
-Copyright (c) Anna Popelkova
+Copyright (c) 2022 Anna Popelkova
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
