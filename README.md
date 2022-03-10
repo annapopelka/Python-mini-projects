@@ -1,7 +1,7 @@
 Exercises <p>
 =============
 * files with my 'mini projects' <br />
-* python required to run it (Python 3.10.2) <br />
+* python required to run it <a href=https://www.python.org/downloads/">(Python 3.10.2)</a> <br /> 
 * the author is Anna Popelkova <br />
 * this code can be freely used and modified by anyone <br />
 
