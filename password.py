@@ -10,6 +10,6 @@ while True:
         for _ in range(0,password_len):
             password_sym = random.choice(symbols)
             password = password + password_sym
-        print('How many passwords do you want to generate:', password)
+        print('Your password:', password)
     break
 
